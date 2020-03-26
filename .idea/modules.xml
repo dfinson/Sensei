@@ -3,6 +3,7 @@
   <component name="ProjectModuleManager">
     <modules>
       <module fileurl="file://$PROJECT_DIR$/Odhron.iml" filepath="$PROJECT_DIR$/Odhron.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Sensei.iml" filepath="$PROJECT_DIR$/Sensei.iml" />
     </modules>
   </component>
 </project>
